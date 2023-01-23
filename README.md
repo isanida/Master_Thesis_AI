@@ -35,7 +35,7 @@ All methods can be found in the ```methods``` folder.
 - GLAD method is in ```methods/c_GLAD/method.py```.
 - Gamma method is in ```methods/c_GAMMA/method.py```.
 
-In order to run each method we only use the ** answer_file_path** parameter which is the directory of the answer file. 
+In order to run each method we only use the **answer_file_path** parameter which is the directory of the answer file. 
 
 
 For example, in order to run the EM method using the demo asnwer file, we need to be in the ```methods/c_EM/``` directory and then run: 
